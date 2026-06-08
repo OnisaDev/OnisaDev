@@ -5,9 +5,11 @@
 # ✦ OnisaDev ✦
 ### Mari C. Pastor · DAM Graduate · Málaga 📍
 
+![Profile views](https://komarev.com/ghpvc/?username=OnisaDev&label=Visitas+al+perfil&color=ff9f43&style=flat-square)
+
 ```
 // Junior Dev · Full-Stack · Data Analysis
-// 16 años en farmacia → pivot a tech
+// 16 años en farmacia → pivot a tech 💊→💻
 ```
 
 [![Open to work](https://img.shields.io/badge/●_Open_to_work-remote_%26_Málaga-4ade80?style=flat-square&labelColor=0f2010)](mailto:mcpt1989@gmail.com)
@@ -17,6 +19,8 @@
 ---
 
 ## 🛠️ Stack
+
+[![Tech stack](https://skillicons.dev/icons?i=python,fastapi,react,vite,js,mysql,php,java,git,github,vscode&perline=11)](https://skillicons.dev)
 
 ![Python](https://img.shields.io/badge/Python-ff9f43?style=flat-square&logo=python&logoColor=0f0a0d)
 ![FastAPI](https://img.shields.io/badge/FastAPI-ff9f43?style=flat-square&logo=fastapi&logoColor=0f0a0d)
@@ -38,6 +42,8 @@
 ### 📚 [Chapter Data](https://github.com/OnisaDev/Chapter-Data)
 > App web full-stack para registro personal de lecturas.
 
+<img src="./LOGO_DEF.jpg" alt="Chapter Data logo" width="180"/>
+
 Autenticación segura con bcrypt, gestión CRUD completa de libros con 16 géneros literarios y estadísticas visuales con gráficos. Proyecto final del ciclo DAM.
 
 `Python` `FastAPI` `SQLAlchemy` `React` `Vite` `MySQL` `bcrypt` `Recharts`
@@ -47,7 +53,7 @@ Autenticación segura con bcrypt, gestión CRUD completa de libros con 16 géner
 ### ⚽ [Futbol-Webapp](https://github.com/OnisaDev/Futbol-Webapp)
 > Web app temática de fútbol desarrollada durante prácticas en Datacontrol Tecnología.
 
-Framework DataFlex: navegación avanzada con DDO relationships, editor de relaciones N:M jugador-posición y theming CSS personalizado.
+Framework de navegación avanzado con DDO relationships, editor de relaciones N:M jugador-posición y theming CSS personalizado.
 
 `DataFlex 25.x` `CSS` `SQL` `Git`
 
@@ -62,6 +68,15 @@ Periodos de gracia por sesión, implementado con hooks de Moodle, event observer
 
 ---
 
+## 🔭 Ahora mismo
+
+- 📖 Preparando **DP-900** Azure Data Fundamentals
+- 🌍 Estudiando inglés técnico → **TOEIC B2**
+- 💼 Buscando primer rol tech en **Málaga o remoto**
+- 📝 Escribiendo sobre tech en [LinkedIn](https://www.linkedin.com/in/mari-c-pastor-torres) cada semana
+
+---
+
 ## 📜 Certificaciones en curso
 
 | | Certificación |
@@ -69,6 +84,12 @@ Periodos de gracia por sesión, implementado con hooks de Moodle, event observer
 | 🔵 | DP-900 Azure Data Fundamentals |
 | 🟡 | TOEIC B2 English |
 | 🟠 | DP-700 Fabric Data Engineer Associate |
+
+---
+
+## 🐍 Contribuciones
+
+![Snake animation](https://github.com/OnisaDev/OnisaDev/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -80,5 +101,5 @@ Periodos de gracia por sesión, implementado con hooks de Moodle, event observer
 ---
 
 <div align="center">
-<sub>// made with ☕ and a lot of commit messages</sub>
+<sub>16 años de experiencia en otra vida. Ahora construyo cosas. ☕</sub>
 </div>
