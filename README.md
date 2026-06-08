@@ -3,7 +3,7 @@
 <div align="center">
 
 # ✦ OnisaDev ✦
-### Mari · DAM Graduate · Málaga 📍
+### Mari C. Pastor · DAM Graduate · Málaga 📍
 
 ```
 // Junior Dev · Full-Stack · Data Analysis
@@ -25,7 +25,7 @@
 ![Vite](https://img.shields.io/badge/Vite-ffe066?style=flat-square&logo=vite&logoColor=0f0a0d)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffe066?style=flat-square&logo=javascript&logoColor=0f0a0d)
 ![MySQL](https://img.shields.io/badge/MySQL-ff6b9d?style=flat-square&logo=mysql&logoColor=0f0a0d)
-![MariaDB](https://img.shields.io/badge/MariaDB-ff6b9d?style=flat-square&logo=mariadb&logoColor=0f0a0d)
+![MySQLWorkbench](https://img.shields.io/badge/MariaDB-ff6b9d?style=flat-square&logo=mariadb&logoColor=0f0a0d)
 ![PHP](https://img.shields.io/badge/PHP-f97316?style=flat-square&logo=php&logoColor=0f0a0d)
 ![Java](https://img.shields.io/badge/Java-cc8870?style=flat-square&logo=openjdk&logoColor=0f0a0d)
 ![Git](https://img.shields.io/badge/Git-cc8870?style=flat-square&logo=git&logoColor=0f0a0d)
@@ -35,7 +35,7 @@
 
 ## 🚀 Proyectos
 
-### 📚 [Chapter Data](https://github.com/OnisaDev/ChapterData)
+### 📚 [Chapter Data](https://github.com/OnisaDev/Chapter-Data)
 > App web full-stack para registro personal de lecturas.
 
 Autenticación segura con bcrypt, gestión CRUD completa de libros con 16 géneros literarios y estadísticas visuales con gráficos. Proyecto final del ciclo DAM.
@@ -47,13 +47,13 @@ Autenticación segura con bcrypt, gestión CRUD completa de libros con 16 géner
 ### ⚽ [Futbol-Webapp](https://github.com/OnisaDev/Futbol-Webapp)
 > Web app temática de fútbol desarrollada durante prácticas en Datacontrol Tecnología.
 
-Framework de navegación avanzado con DDO relationships, editor de relaciones N:M jugador-posición y theming CSS personalizado.
+Framework DataFlex: navegación avanzada con DDO relationships, editor de relaciones N:M jugador-posición y theming CSS personalizado.
 
 `DataFlex 25.x` `CSS` `SQL` `Git`
 
 ---
 
-### 🔐 local_emoji2fa
+### 🔐 [local_emoji2fa](https://github.com/OnisaDev/Moodle-plugin-motivacion)
 > Plugin Moodle custom: autenticación 2FA basada en emojis.
 
 Periodos de gracia por sesión, implementado con hooks de Moodle, event observers y base de datos propia. Desarrollado en prácticas en Datacontrol.
