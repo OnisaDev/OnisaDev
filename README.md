@@ -101,5 +101,5 @@ Periodos de gracia por sesión, implementado con hooks de Moodle, event observer
 ---
 
 <div align="center">
-<sub>16 años de experiencia en otra vida. Ahora construyo cosas. ☕</sub>
+<sub> ☕</sub>
 </div>
