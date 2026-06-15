@@ -2,7 +2,7 @@
 <div align="center">
 
 # ✦ OnisaDev ✦
-### Mari C. Pastor · DAM Graduate · Málaga 📍
+### Mari C. Pastor · DAM · Málaga 📍
 
 ![Profile views](https://komarev.com/ghpvc/?username=OnisaDev&label=Visitas+al+perfil&color=ff9f43&style=flat-square)
 
