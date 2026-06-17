@@ -35,18 +35,19 @@
 ![Java](https://img.shields.io/badge/Java-cc8870?style=flat-square&logo=openjdk&logoColor=0f0a0d)
 ![R](https://img.shields.io/badge/R-cc8870?style=flat-square&logo=r&logoColor=0f0a0d)
 ![Git](https://img.shields.io/badge/Git-cc8870?style=flat-square&logo=git&logoColor=0f0a0d)
+![DataFlex](https://img.shields.io/badge/DataFlex-cc8870?style=flat-square&logoColor=0f0a0d)
+![Moodle](https://img.shields.io/badge/Moodle-cc8870?style=flat-square&logo=moodle&logoColor=0f0a0d)
 
 ---
 
 ## 🚀 Proyectos
 
-### 📊 [tech-jobs-spain-analysis](https://github.com/OnisaDev/tech-jobs-spain-analysis)
-> Pipeline ETL y dashboard interactivo para análisis del mercado tech en España.
+### 📊 [tech-jobs-analysis](https://github.com/OnisaDev/tech-jobs-analysis)
+> Pipeline ETL y dashboard interactivo para análisis del mercado tech en internacional.
 
-Dataset Kaggle + datos SEPE combinados en un pipeline de datos con visualización en Streamlit. Proyecto de portfolio activo en construcción.
+Dataset Kaggle procesado en un pipeline de datos con visualización en Streamlit. Proyecto de portfolio activo en construcción.
 
 `Python` `Pandas` `Streamlit` `ETL` `Data Analysis`
-
 ---
 
 ### 📚 [Chapter Data](https://github.com/OnisaDev/Chapter-Data)
@@ -89,7 +90,7 @@ Análisis sobre dataset FMA (1000 canciones): limpieza, escalado, K-Means (k=2,3
 
 ## 🔭 Ahora mismo
 
-- 📊 Construyendo **tech-jobs-spain-analysis** — pipeline ETL + dashboard Streamlit
+- 📊 Construyendo **tech-jobs-analysis** — pipeline ETL + dashboard Streamlit
 - 📖 Preparando **DP-900** Azure Data Fundamentals
 - 🌍 Estudiando inglés técnico → **TOEIC B2**
 - 💼 Buscando primer rol tech en **Málaga o remoto**
