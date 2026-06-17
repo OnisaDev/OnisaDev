@@ -48,6 +48,7 @@
 Dataset Kaggle procesado en un pipeline de datos con visualización en Streamlit. Proyecto de portfolio activo en construcción.
 
 `Python` `Pandas` `Streamlit` `ETL` `Data Analysis`
+
 ---
 
 ### 📚 [Chapter Data](https://github.com/OnisaDev/Chapter-Data)
