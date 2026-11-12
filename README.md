@@ -7,7 +7,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=OnisaDev&label=Visitas+al+perfil&color=ff9f43&style=flat-square)
 
 ```
-// Junior Dev · Full-Stack · Data Analysis
+// Junior Dev · Moodle (PHP) · Full-Stack · SQL
 // 16 años en farmacia → pivot a tech 💊→💻
 ```
 
@@ -19,35 +19,41 @@
 
 ## 🛠️ Stack
 
-[![Tech stack](https://skillicons.dev/icons?i=python,fastapi,react,vite,js,mysql,php,java,r,git,github,vscode&perline=12)](https://skillicons.dev)
+[![Tech stack](https://skillicons.dev/icons?i=php,mysql,python,fastapi,react,vite,java,git,github,vscode&perline=12)](https://skillicons.dev)
 
+![Moodle](https://img.shields.io/badge/Moodle-f97316?style=flat-square&logo=moodle&logoColor=0f0a0d)
+![IOMAD](https://img.shields.io/badge/IOMAD-f97316?style=flat-square&logoColor=0f0a0d)
+![PHP](https://img.shields.io/badge/PHP-f97316?style=flat-square&logo=php&logoColor=0f0a0d)
+![MySQL](https://img.shields.io/badge/MySQL-ff6b9d?style=flat-square&logo=mysql&logoColor=0f0a0d)
+![MariaDB](https://img.shields.io/badge/MariaDB-ff6b9d?style=flat-square&logo=mariadb&logoColor=0f0a0d)
 ![Python](https://img.shields.io/badge/Python-ff9f43?style=flat-square&logo=python&logoColor=0f0a0d)
 ![FastAPI](https://img.shields.io/badge/FastAPI-ff9f43?style=flat-square&logo=fastapi&logoColor=0f0a0d)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ff9f43?style=flat-square&logo=python&logoColor=0f0a0d)
 ![Pandas](https://img.shields.io/badge/Pandas-ff9f43?style=flat-square&logo=pandas&logoColor=0f0a0d)
-![Streamlit](https://img.shields.io/badge/Streamlit-ff9f43?style=flat-square&logo=streamlit&logoColor=0f0a0d)
 ![React](https://img.shields.io/badge/React-ffe066?style=flat-square&logo=react&logoColor=0f0a0d)
-![Vite](https://img.shields.io/badge/Vite-ffe066?style=flat-square&logo=vite&logoColor=0f0a0d)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffe066?style=flat-square&logo=javascript&logoColor=0f0a0d)
-![MySQL](https://img.shields.io/badge/MySQL-ff6b9d?style=flat-square&logo=mysql&logoColor=0f0a0d)
-![MariaDB](https://img.shields.io/badge/MariaDB-ff6b9d?style=flat-square&logo=mariadb&logoColor=0f0a0d)
-![PHP](https://img.shields.io/badge/PHP-f97316?style=flat-square&logo=php&logoColor=0f0a0d)
 ![Java](https://img.shields.io/badge/Java-cc8870?style=flat-square&logo=openjdk&logoColor=0f0a0d)
-![R](https://img.shields.io/badge/R-cc8870?style=flat-square&logo=r&logoColor=0f0a0d)
 ![Git](https://img.shields.io/badge/Git-cc8870?style=flat-square&logo=git&logoColor=0f0a0d)
 ![DataFlex](https://img.shields.io/badge/DataFlex-cc8870?style=flat-square&logoColor=0f0a0d)
-![Moodle](https://img.shields.io/badge/Moodle-cc8870?style=flat-square&logo=moodle&logoColor=0f0a0d)
 
 ---
 
 ## 🚀 Proyectos
 
-### 📊 [tech-jobs-analysis](https://github.com/OnisaDev/tech-jobs-analysis)
-> Pipeline ETL y dashboard interactivo para análisis del mercado tech en internacional.
+### 🔐 [local-emoji2fa](https://github.com/OnisaDev/local-emoji2fa)
+> Plugin Moodle custom: autenticación 2FA basada en reconocimiento visual de emojis.
 
-Dataset Kaggle procesado en un pipeline de datos con visualización en Streamlit. Proyecto de portfolio activo en construcción.
+Periodos de gracia configurables con persistencia en BD, implementado con hooks de Moodle y event observers. Desarrollado en prácticas en Datacontrol Tecnología.
 
-`Python` `Pandas` `Streamlit` `ETL` `Data Analysis`
+`PHP` `Moodle` `MySQL`
+
+---
+
+### 💬 [Moodle-plugin-motivacion](https://github.com/OnisaDev/Moodle-plugin-motivacion)
+> Bloque Moodle que muestra frases motivacionales sobre programación.
+
+Botón para generar una nueva frase. PHP 8.2, compatible con cursos, escritorio y página principal.
+
+`PHP` `Moodle`
 
 ---
 
@@ -62,21 +68,12 @@ Autenticación segura con bcrypt, gestión CRUD completa de libros con 16 géner
 
 ---
 
-### 🔐 [local-emoji2fa](https://github.com/OnisaDev/local-emoji2fa)
-> Plugin Moodle custom: autenticación 2FA basada en reconocimiento visual de emojis.
+### 📊 [tech-jobs-analysis](https://github.com/OnisaDev/tech-jobs-analysis)
+> Pipeline ETL y dashboard interactivo para análisis del mercado tech en internacional.
 
-Periodos de gracia configurables con persistencia en BD, implementado con hooks de Moodle y event observers. Desarrollado en prácticas en Datacontrol Tecnología.
+Dataset Kaggle procesado en un pipeline de datos con visualización en Streamlit. Proyecto de portfolio activo en construcción.
 
-`PHP` `Moodle` `MySQL`
-
----
-
-### ⚽ [Futbol-Webapp](https://github.com/OnisaDev/Futbol-Webapp)
-> Web app de gestión de fútbol desarrollada durante prácticas en Datacontrol Tecnología.
-
-Framework de navegación avanzado con DDO relationships, editor de relaciones N:M jugador-posición y theming CSS personalizado. Seed data del Mundial 2026.
-
-`DataFlex 25.x` `CSS` `SQL` `Git`
+`Python` `Pandas` `Streamlit` `ETL` `Data Analysis`
 
 ---
 
@@ -89,29 +86,20 @@ Análisis sobre dataset FMA (1000 canciones): limpieza, escalado, K-Means (k=2,3
 
 ---
 
+### ⚽ [Futbol-Webapp](https://github.com/OnisaDev/Futbol-Webapp)
+> Web app de gestión de fútbol desarrollada durante prácticas en Datacontrol Tecnología.
+
+Framework de navegación avanzado con DDO relationships, editor de relaciones N:M jugador-posición y theming CSS personalizado. Seed data del Mundial 2026.
+
+`DataFlex 25.x` `CSS` `SQL` `Git`
+
+---
+
 ## 🔭 Ahora mismo
 
-- 📊 Construyendo **tech-jobs-analysis** — pipeline ETL + dashboard Streamlit
-- 📖 Preparando **DP-900** Azure Data Fundamentals
-- 🌍 Estudiando inglés técnico → **TOEIC B2**
-- 💼 Buscando primer rol tech en **Málaga o remoto**
-- 📝 Escribiendo sobre tech en [LinkedIn](https://www.linkedin.com/in/mari-c-pastor-torres) cada semana
-
----
-
-## 📜 Certificaciones en curso
-
-| | Certificación |
-|---|---|
-| 🔵 | DP-900 Azure Data Fundamentals |
-| 🟡 | TOEIC B2 English |
-| 🟠 | DP-700 Fabric Data Engineer Associate |
-
----
-
-## 🐍 Contribuciones
-
-![Snake animation](https://github.com/OnisaDev/OnisaDev/raw/output/github-contribution-grid-snake.svg)
+- 🧩 Aprendiendo todo lo necesario para trabajar con **Moodle**: administración, **IOMAD**, desarrollo de plugins y temas
+- 💼 Buscando rol en **Moodle / LMS** en **Málaga o remoto**
+- 📝 Escribiendo sobre tech en [LinkedIn](https://www.linkedin.com/in/mari-c-pastor-torres) 
 
 ---
 
