@@ -24,6 +24,8 @@
 ![Moodle](https://img.shields.io/badge/Moodle-f97316?style=flat-square&logo=moodle&logoColor=0f0a0d)
 ![IOMAD](https://img.shields.io/badge/IOMAD-f97316?style=flat-square&logoColor=0f0a0d)
 ![PHP](https://img.shields.io/badge/PHP-f97316?style=flat-square&logo=php&logoColor=0f0a0d)
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-f97316?style=flat-square&logo=ubuntu&logoColor=0f0a0d)
+![Apache](https://img.shields.io/badge/Apache-f97316?style=flat-square&logo=apache&logoColor=0f0a0d)
 ![MySQL](https://img.shields.io/badge/MySQL-ff6b9d?style=flat-square&logo=mysql&logoColor=0f0a0d)
 ![MariaDB](https://img.shields.io/badge/MariaDB-ff6b9d?style=flat-square&logo=mariadb&logoColor=0f0a0d)
 ![Python](https://img.shields.io/badge/Python-ff9f43?style=flat-square&logo=python&logoColor=0f0a0d)
@@ -38,6 +40,15 @@
 ---
 
 ## 🚀 Proyectos
+
+### 🖥️ [iomad-install-guide](https://github.com/OnisaDev/iomad-install-guide)
+> Guía paso a paso para instalar IOMAD 4.5 LTS en Ubuntu Server 24.04 con VirtualBox.
+
+Apache, PHP 8.3, MariaDB, permisos, cron, HTTPS y copias de seguridad, con cada paso marcado como probado o pendiente y los problemas reales que aparecieron (como el error del router de Moodle).
+
+`IOMAD` `Moodle` `Ubuntu Server` `Apache` `MariaDB`
+
+---
 
 ### 🔐 [local-emoji2fa](https://github.com/OnisaDev/local-emoji2fa)
 > Plugin Moodle custom: autenticación 2FA basada en reconocimiento visual de emojis.
